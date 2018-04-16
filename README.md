@@ -39,7 +39,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Eduardo Galeano | Cegard |
+| Jhonatan Guzmán | Jhonnyguzz |
 
 ## Entrega
 
